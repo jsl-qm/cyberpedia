@@ -1,0 +1,1 @@
+- Independence of an outcome on its previous outcome and its relation with how does an experiment "knows" that the exp has been performed N times and that N is big?

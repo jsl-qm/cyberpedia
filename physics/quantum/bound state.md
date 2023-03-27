@@ -1,0 +1,1 @@
+solve for the SE for the stationary states and the spectrum of discrete eigenvalues

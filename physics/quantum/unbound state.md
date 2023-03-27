@@ -1,0 +1,1 @@
+the energy spectrum is continuous so instead of solving for the statinonary states and the energies such as for [[bound state]] use probability current to describe the state such as in [[transmission coefficient]]

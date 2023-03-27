@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "068bce0061f490ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "d33be4c0a0d9a5dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b653a6670deb4d47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-atomic manipulation/intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4b35f9c03509cf9",
+    "type": "split",
+    "children": [
+      {
+        "id": "623184a73391dca3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb3ae9b184dd48df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20f8ca880fc966b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f26f1485e23d1370",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c0840d9e1c9d1fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4632877216c1da2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c3e3e02a89c3c18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1-atomic manipulation/intro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9dbe41353378e041",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1-atomic manipulation/intro.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d884ef06a9e3ff2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "adf3ae4915dc20fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1-atomic manipulation/intro.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b653a6670deb4d47",
+  "lastOpenFiles": [
+    "1-atomic manipulation/intro.md",
+    "1-atomic manipulation",
+    "physics/electromagnetism/electric dipole.md",
+    "physics/electromagnetism/induced dipole.md",
+    "computer/cpu.md",
+    "chemistry/redox.md",
+    "chemistry/on-surface synthesis.md",
+    "chemistry/electrochemistry.md",
+    "chemistry/electrolyte.md",
+    "chemistry/catalyst.md",
+    "grad school/thywissen.md",
+    "grad school/things to keep in mind.md"
+  ]
+}

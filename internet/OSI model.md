@@ -1,0 +1,1 @@
+abstraction layers : Every layer can exist without the layers above it, and requires the layers below it to function

@@ -1,0 +1,1 @@
+take one physical [[cpu]] and make it look like many virtual CPUs to the applications running on the system. 

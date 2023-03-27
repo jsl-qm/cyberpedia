@@ -1,0 +1,1 @@
+Collection of every possible outcome in a [[random experiment]].

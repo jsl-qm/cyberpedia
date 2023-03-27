@@ -1,0 +1,1 @@
+the lagrangian of mechanical system is such that its rate of change wrt $q$ must be the same to the rate of change of its rate of change wrt the rate of change of $q$ wrt time wrt time

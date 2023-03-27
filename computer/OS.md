@@ -1,0 +1,3 @@
+An operating system (OS) is a collection of [[software]] that manages a computer's hardware and provides a platform for running applications. The operating system is the most important piece of software on a computer, as it controls the computer's hardware and provides the foundation on which other programs can run. Some of the key functions of an operating system include managing the computer's memory and storage, scheduling tasks, and providing a user interface for interacting with the computer.
+
+In general, the operating system provides a set of services and functions that allow applications to access the hardware resources of the computer in a consistent and abstracted way.

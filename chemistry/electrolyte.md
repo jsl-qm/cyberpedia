@@ -1,0 +1,1 @@
+electrocally conducting medium by transport of ions

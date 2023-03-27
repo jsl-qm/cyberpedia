@@ -1,0 +1,1 @@
+main repository-->branch, i.e. copy main branch-->modify branch and commit (save changes) --> branch != main --> pull request-->accept+merge
